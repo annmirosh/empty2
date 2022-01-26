@@ -1,0 +1,1 @@
+[{"id":"d9a65873-4e32-2ce8-f290-9b6e0bdd2ed6","parentId":"","request":{"text":"hi"},"response":"[{\"text\":\"hi there\",\"rLoc\":{\"file\":\"em2\",\"line\":3},\"reqId\":\"1643229298337/1\",\"success\":true,\"textInput\":true}]","meta":"{\"pLoc\":{\"file\":\"em2\",\"line\":2}}","visualProperties":"{\"childIndex\":0}"}]
