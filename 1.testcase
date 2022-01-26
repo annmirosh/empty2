@@ -1,18 +1,2 @@
-[
-    {
-        "id": "212db13b627b716124df339bf82d47aa070a5e058fc7c47faa536f725f64d4c6",
-        "name": "1",
-        "phrases": [
-            {
-                "id": "d9a65873-4e32-2ce8-f290-9b6e0bdd2ed6",
-                "parentId": "",
-                "request": {
-                    "text": "hi"
-                },
-                "response": "[{\"text\":\"hi there\",\"rLoc\":{\"file\":\"em2\",\"line\":3},\"reqId\":\"1643229298337/1\",\"success\":true,\"textInput\":true}]",
-                "meta": "{\"pLoc\":{\"file\":\"em2\",\"line\":2}}",
-                "visualProperties": "{\"childIndex\":0}"
-            }
-        ]
-    }
-]
+/* Please do not make any changes directly in the file, only through our Platform, otherwise it won't work */
+[{"id":"d9a65873-4e32-2ce8-f290-9b6e0bdd2ed6","parentId":"","request":{"text":"hello"},"response":"[{\"text\":\"hi there\",\"rLoc\":{\"file\":\"em2\",\"line\":3},\"reqId\":\"1643231580233/1\",\"success\":true,\"textInput\":true}]","meta":"{\"pLoc\":{\"file\":\"em2\",\"line\":2}}","visualProperties":"{\"childIndex\":0}"}]
